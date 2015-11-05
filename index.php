@@ -14,7 +14,7 @@
     </head>
     <body>
         <div>
-            <img src="adv.jpg" />
+            <img src="http://i.imgur.com/SoHxmpA.jpg" />
         </div>
         <div class="jumbotron">
             <h2>السيارة التي تلائمك حسب اسمك</h2>
@@ -27,7 +27,7 @@
             </form>
         </div>
         <div>
-            <img src="adv.jpg" />
+            <img src="http://i.imgur.com/SoHxmpA.jpg" />
         </div>
 
     </body>

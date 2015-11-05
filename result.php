@@ -15,7 +15,7 @@
     </head>
     <body>
         <div>
-            <img src="adv.jpg" />
+            <img src="http://i.imgur.com/SoHxmpA.jpg" />
         </div>
         <?php
 			$name = $_POST['name'];
@@ -38,7 +38,7 @@
             </p>
         </div>
         <div>
-            <img src="adv.jpg" />
+            <img src="http://i.imgur.com/SoHxmpA.jpg" />
         </div>
 
     </body>
